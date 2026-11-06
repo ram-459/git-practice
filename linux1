@@ -1,0 +1,15 @@
+-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~/DevOps/git_github/f1$ git  add .
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~/DevOps/git_github/f1$ git status
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   linux
+	new file:   linux1
+	new file:   linux2
+	new file:   linux3
+	new file:   linux4
+	new file:   linux5
+
