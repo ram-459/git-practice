@@ -1,0 +1,16 @@
+:~/DevOps/git_github/f1$ ls -la
+total 12
+drwxrwxr-x 3 ram-prakash-kurmi ram-prakash-kurmi 4096 Nov  6 14:54 .
+drwxrwxr-x 5 ram-prakash-kurmi ram-prakash-kurmi 4096 Nov  6 14:48 ..
+drwxrwxr-x 6 ram-prakash-kurmi ram-prakash-kurmi 4096 Nov  6 14:54 .git
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~/DevOps/git_github/f1$ ll
+total 12
+drwxrwxr-x 3 ram-prakash-kurmi ram-prakash-kurmi 4096 Nov  6 14:54 ./
+drwxrwxr-x 5 ram-prakash-kurmi ram-prakash-kurmi 4096 Nov  6 14:48 ../
+drwxrwxr-x 6 ram-prakash-kurmi ram-prakash-kurmi 4096 Nov  6 14:54 .git/
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~/DevOps/git_github/f1$ touch linux
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~/DevOps/git_github/f1$ ls
+linux
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~/DevOps/git_github/f1$ touch linux{1..5}
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~/DevOps/git_github/f1$ ls
+linux  linux1  linux2  linux3  linux4  linux5
