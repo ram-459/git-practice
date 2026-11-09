@@ -1,1 +1,29 @@
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~$ ls
+AWS_LINUX_BY_rpk  DevOps     LVM         Pictures   Videos           awscliv2.zip          mydir             ram         shortcuts
+Data              Documents  LVM_by_ram  Public     YouTube-Factory  lfd                   netwoking_by_ram  s.sh        snap
+Desktop           Downloads  Music       Templates  aws              minikube-linux-amd64  networking        schaudhary
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~$ ls | grep Devops
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~$ ls | grep DevOps
+DevOps
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~$ ls | grep De*
+grep: DevOps: Is a directory
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~$ ls | grep Do*
+grep: Downloads: Is a directory
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~$ ls | grep Doc*
+Documents
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~$ ls | grep AWS*
+AWS_LINUX_BY_rpk
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~$ cd DevOps
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~/DevOps$ ls
+argocd  downloads  git_github  jenkins  kubernetes  notes  pem-keys  pem_keys  projects  scripts  terraform
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~/DevOps$ cd git_github
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~/DevOps/git_github$ ls
+f1  f2  f3  linux_revision
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~/DevOps/git_github$ cat f1
+cat: f1: Is a directory
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~/DevOps/git_github$ cd f1
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~/DevOps/git_github/f1$ ls
+linux  linux1  linux2  linux3  linux4  linux5
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~/DevOps/git_github/f1$ cat linux
 this is chnage
+ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~/DevOps/git_github/f1$ 
