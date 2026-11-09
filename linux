@@ -51,6 +51,5 @@ ls | grep '^Doc'
 ls | grep '^AWS'
 
 
-for the branching
-for git1.1
+conflict.1
 
