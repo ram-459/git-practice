@@ -29,3 +29,23 @@ this is chnage
 ram-prakash-kurmi@ram-prakash-kurmi-Lenovo-B50-80:~/DevOps/git_github/f1$ 
 this is for nano
 
+# Show all files and directories in the home directory
+ls
+
+# Search for a name containing "Devops" (Linux is case-sensitive)
+ls | grep Devops
+
+# Search for a name containing "DevOps"
+ls | grep DevOps
+
+# Search for names starting with "De"
+ls | grep '^De'
+
+# Search for names starting with "Do"
+ls | grep '^Do'
+
+# Search for names starting with "Doc"
+ls | grep '^Doc'
+
+# Search for names starting with "AWS"
+ls | grep '^AWS'
